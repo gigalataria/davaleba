@@ -1,0 +1,44 @@
+.p-container{
+    border: solid black 20px;
+    background-color: red;
+    color: blue;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 50px;
+    border-right: dotted 20px;
+    border-bottom: double 20px;
+    border-left: dashed 20px;
+}
+.p-1{
+    background-color: black;
+    text-align: center;
+}
+
+.p-2{
+    background-color: black;
+    text-align: center;
+}
+
+.h{
+    border: green solid 20px;
+    background-color: yellow;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 100px;
+}
+
+.h-2{
+    background-color: red;
+}
+.h-3{
+    background-color: lime;
+}
+
+.lorem-2{
+    background-color: pink;
+    color: green;
+}
+
+.a{
+    text-decoration: none;
+}
